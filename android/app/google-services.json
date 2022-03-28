@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "775009798872",
+    "project_id": "signandlogin-a2",
+    "storage_bucket": "signandlogin-a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775009798872:android:028bd71585b1796d4c65ad",
+        "android_client_info": {
+          "package_name": "com.example.final_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "775009798872-9aghug9507o06hksm0al4rjeue94hm2i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoFWQHjSl80DkvqKZ1GlbmZ6cnPz2z_Ms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "775009798872-9aghug9507o06hksm0al4rjeue94hm2i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
